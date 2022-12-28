@@ -1,4 +1,4 @@
-# XBEAT Music Player
+# XBEAT Music Player backend manager
 
 ## Description :
 Working Prototype of a MUSIC PLAYER
