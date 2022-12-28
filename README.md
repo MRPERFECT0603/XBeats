@@ -1,7 +1,7 @@
 # XBEAT Music Player backend manager
 
 ## Description :
-Working Prototype of a MUSIC PLAYER
+Working Prototype of the backend of a MUSIC PLAYER
 
 ### Features ->
 - Basic Capabilities of any Audio Player (Play, Pause, Stop, Seek, Next, Previous, Loop, Volume Control)
