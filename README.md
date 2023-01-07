@@ -16,17 +16,18 @@ Working Prototype of the backend of a MUSIC PLAYER
 ## About Us:
 ### Team Members ->
 
-> **HARSHIT VIJAY** <p align="centre"> 
+
+> **VIVEK SHAURYA** <p align="centre"> 
 <u>Educational Institute</u>: Jaypee Institute of Information Technology (JIIT)   
-<u>Enrollment Number</u>: 21803015 <br>
+<u>Enrollment Number</u>: 21803013 <br>
 <u>Batch</u>: B12
 </p>
 
 <br>
 
-> **VIVEK SHAURYA** <p align="centre"> 
+> **HARSHIT VIJAY** <p align="centre"> 
 <u>Educational Institute</u>: Jaypee Institute of Information Technology (JIIT)   
-<u>Enrollment Number</u>: 21803013 <br>
+<u>Enrollment Number</u>: 21803015 <br>
 <u>Batch</u>: B12
 </p>
 
